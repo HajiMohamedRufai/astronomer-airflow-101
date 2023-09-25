@@ -1,0 +1,4 @@
+project:
+  name: local-dev
+postgres:
+  port: 5433
