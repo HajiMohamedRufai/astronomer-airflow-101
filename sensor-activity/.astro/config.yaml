@@ -1,2 +1,4 @@
 project:
-  name: astro
+  name: sensor-activity
+postgres:
+  port: 5434
