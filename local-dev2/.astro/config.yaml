@@ -1,0 +1,6 @@
+project:
+  name: local-dev-2
+webserver:
+  port: 8080
+postgres:
+  port: 5433
